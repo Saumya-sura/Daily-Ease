@@ -1,0 +1,82 @@
+{
+  "@@locale": "en",
+  "appTitle": "Daily-Ease",
+  "tagline": "Trusted Local Services at Your Doorstep",
+  "selectLanguage": "Select Language",
+  "continueButton": "Continue",
+  "welcomeTitle": "Welcome to Daily-Ease",
+  "welcomeSubtitle": "Find and book reliable household & neighborhood services",
+
+  "roleConsumer": "Customer / Consumer",
+  "roleConsumerDesc": "Book trusted local workers for home & daily chores",
+  "roleProvider": "Service Provider",
+  "roleProviderDesc": "Offer services, receive direct calls & manage bookings",
+
+  "categoryMaid": "Maid / Helper",
+  "categoryMilkman": "Milk Delivery",
+  "categoryWatchman": "Watchman / Security",
+  "categoryPlumber": "Plumber",
+  "categoryElectrician": "Electrician",
+  "categoryCarpenter": "Carpenter",
+  "categoryCook": "Cook / Chef",
+  "categoryCleaner": "Deep Cleaning",
+  "categoryLaundry": "Laundry & Ironing",
+
+  "needHelpToday": "Need Help Today",
+  "needHelpTodayDesc": "Quick 1-tap urgent service request for today",
+  "societyDirectory": "Apartment & Society Directory",
+  "societyDirectoryDesc": "Discover verified workers serving your society",
+  "postCustomRequest": "Post Custom Request",
+  "postCustomRequestDesc": "Describe your specific need and get provider responses",
+  "householdDashboard": "Household Services",
+  "householdDashboardDesc": "Manage your daily milk, morning maid & recurring visits",
+
+  "searchPlaceholder": "Search by service, society, or name (e.g. maid, bai)...",
+  "filterButton": "Filters",
+  "compareProviders": "Compare Providers",
+  "rebookButton": "1-Tap Rebook",
+  "recentlyContacted": "Recently Contacted",
+
+  "callProvider": "Call Directly",
+  "bookService": "Book Service",
+  "verifiedBadge": "Verified",
+  "unverifiedBadge": "Self-Listed",
+  "experienceYears": "{count} years exp.",
+  "@experienceYears": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "pricingDisclaimer": "Prices are estimated and agreed directly between parties.",
+  "directSettlement": "Direct Cash / UPI Settlement",
+
+  "bookingStatusRequested": "Requested",
+  "bookingStatusAccepted": "Accepted",
+  "bookingStatusDeclined": "Declined",
+  "bookingStatusRescheduled": "Rescheduled",
+  "bookingStatusCompleted": "Completed",
+  "bookingStatusCancelled": "Cancelled",
+
+  "recurringDaily": "Daily Recurring",
+  "recurringWeekly": "Weekly Recurring",
+  "recurringMonthly": "Monthly Arrangement",
+  "temporaryOneTime": "One-Time / Temporary",
+
+  "pauseService": "Pause",
+  "resumeService": "Resume",
+  "skipDay": "Skip Day",
+
+  "offlineNotice": "You are offline. Showing cached information.",
+  "offlineSyncPending": "Offline pending sync",
+
+  "addressHome": "Home",
+  "addressOffice": "Office",
+  "addressHostel": "Hostel / PG",
+  "addAddress": "Add New Address",
+
+  "save": "Save",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "reportAbuse": "Report / Block"
+}

@@ -1,0 +1,82 @@
+{
+  "@@locale": "mr",
+  "appTitle": "Daily-Ease",
+  "tagline": "तुमच्या दारात विश्वासार्ह स्थानिक सेवा",
+  "selectLanguage": "भाषा निवडा",
+  "continueButton": "पुढे जा",
+  "welcomeTitle": "Daily-Ease मध्ये आपले स्वागत आहे",
+  "welcomeSubtitle": "घरगुती आणि दैनंदिन कामांसाठी विश्वासू कामगार शोधा आणि बुक करा",
+
+  "roleConsumer": "ग्राहक / नागरिक",
+  "roleConsumerDesc": "घरकामासाठी स्थानिक विश्वासू मदतनीस शोधा आणि बुक करा",
+  "roleProvider": "सेवा प्रदाता / व्यावसायिक",
+  "roleProviderDesc": "आपल्या सेवांची नोंदणी करा, थेट फोन कॉल मिळवा आणि बुकिंग सांभाळा",
+
+  "categoryMaid": "कामवाली बाई / मावशी",
+  "categoryMilkman": "दूधवाला",
+  "categoryWatchman": "सुरक्षारक्षक / वॉचमन",
+  "categoryPlumber": "प्लंबर",
+  "categoryElectrician": "इलेक्ट्रिशियन",
+  "categoryCarpenter": "सुतार",
+  "categoryCook": "आचारी / स्वयंपाकी",
+  "categoryCleaner": "घराची सखोल स्वच्छता",
+  "categoryLaundry": "धुलाई आणि इस्त्री",
+
+  "needHelpToday": "आजच मदत हवी आहे",
+  "needHelpTodayDesc": "आजच्या दिवसासाठी तातडीची 1-टॅप सेवा",
+  "societyDirectory": "सोसायटी व अपार्टमेंट डिरेक्टरी",
+  "societyDirectoryDesc": "तुमच्या सोसायटीमध्ये आधीच काम करणाऱ्या कामगारांची यादी",
+  "postCustomRequest": "कस्टम विनंती पाठवा",
+  "postCustomRequestDesc": "तुमची गरज सांगा आणि स्थानिक कामगारांकडून प्रतिसाद मिळवा",
+  "householdDashboard": "घरगुती सेवा व्यवस्थापन",
+  "householdDashboardDesc": "रोजचे दूध, सकाळची बाई आणि नियमित सेवांचे वेळापत्रक सांभाळा",
+
+  "searchPlaceholder": "सेवा, सोसायटी किंवा नावाने शोधा (उदा. बाई, कामवाली, दूधवाला)...",
+  "filterButton": "फिल्टर",
+  "compareProviders": "तुलना करा",
+  "rebookButton": "1-टॅप पुन्हा बुक करा",
+  "recentlyContacted": "अलीकडे संपर्क केलेले",
+
+  "callProvider": "थेट फोन करा",
+  "bookService": "सेवा बुक करा",
+  "verifiedBadge": "सत्यापित",
+  "unverifiedBadge": "स्वयं-नोंदणीकृत",
+  "experienceYears": "{count} वर्षे अनुभव",
+  "@experienceYears": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "pricingDisclaimer": "किमती अंदाजे असून दोघांमध्ये परस्पर ठरवल्या जातात.",
+  "directSettlement": "थेट रोख / UPI द्वारे व्यवहार",
+
+  "bookingStatusRequested": "मागणी केली",
+  "bookingStatusAccepted": "स्वीकारले",
+  "bookingStatusDeclined": "नाकारले",
+  "bookingStatusRescheduled": "पुन्हा ठरवले",
+  "bookingStatusCompleted": "पूर्ण झाले",
+  "bookingStatusCancelled": "रद्द केले",
+
+  "recurringDaily": "दररोज नियमित",
+  "recurringWeekly": "साप्ताहिक नियमित",
+  "recurringMonthly": "मासिक व्यवस्था",
+  "temporaryOneTime": "एकवेळ / तात्पुरती",
+
+  "pauseService": "थांबवा (Pause)",
+  "resumeService": "पुन्हा सुरू करा",
+  "skipDay": "एक दिवस वगळा",
+
+  "offlineNotice": "तुम्ही ऑफलाइन आहात. साठवलेली माहिती दाखवली जात आहे.",
+  "offlineSyncPending": "सिंक प्रलंबित",
+
+  "addressHome": "घर",
+  "addressOffice": "कार्यालय",
+  "addressHostel": "वसतिगृह / पीजी",
+  "addAddress": "नवीन पत्ता जोडा",
+
+  "save": "जतन करा",
+  "cancel": "रद्द करा",
+  "confirm": "नक्की करा",
+  "reportAbuse": "तक्रार / ब्लॉक"
+}

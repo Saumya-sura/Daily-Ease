@@ -1,0 +1,413 @@
+{
+  "service_categories": [
+    {
+      "id": "maid",
+      "name_en": "Maid / Helper",
+      "name_hi": "कामवाली बाई",
+      "name_mr": "कामवाली मावशी",
+      "icon_name": "maid",
+      "search_aliases": ["maid", "bai", "kamwali", "househelp", "बाई", "कामवाली", "मावशी"],
+      "is_active": true
+    },
+    {
+      "id": "milkman",
+      "name_en": "Milk Delivery",
+      "name_hi": "दूध डिलीवरी",
+      "name_mr": "दूधवाला",
+      "icon_name": "milkman",
+      "search_aliases": ["milk", "milkman", "doodhwala", "dairy", "दूध", "दूधवाला"],
+      "is_active": true
+    },
+    {
+      "id": "watchman",
+      "name_en": "Watchman / Security",
+      "name_hi": "सुरक्षा गार्ड / चौकीदार",
+      "name_mr": "सुरक्षारक्षक / वॉचमन",
+      "icon_name": "watchman",
+      "search_aliases": ["watchman", "security", "guard", "chowkidar", "चौकीदार", "सुरक्षारक्षक"],
+      "is_active": true
+    },
+    {
+      "id": "plumber",
+      "name_en": "Plumber",
+      "name_hi": "प्लंबर",
+      "name_mr": "प्लंबर",
+      "icon_name": "plumber",
+      "search_aliases": ["plumber", "pipe", "leak", "tap", "प्लंबर", "नळ"],
+      "is_active": true
+    },
+    {
+      "id": "electrician",
+      "name_en": "Electrician",
+      "name_hi": "इलेक्ट्रीशियन",
+      "name_mr": "इलेक्ट्रिशियन",
+      "icon_name": "electrician",
+      "search_aliases": ["electrician", "wiring", "fuse", "inverter", "इलेक्ट्रीशियन", "लाईट"],
+      "is_active": true
+    },
+    {
+      "id": "carpenter",
+      "name_en": "Carpenter",
+      "name_hi": "बढ़ई",
+      "name_mr": "सुतार",
+      "icon_name": "carpenter",
+      "search_aliases": ["carpenter", "wood", "furniture", "door", "बढ़ई", "सुतार"],
+      "is_active": true
+    },
+    {
+      "id": "car_cleaner",
+      "name_en": "Car Washing",
+      "name_hi": "कार वाशिंग",
+      "name_mr": "गाडी धुणे",
+      "icon_name": "car_cleaner",
+      "search_aliases": ["car", "washing", "cleaner", "गाड़ी", "कार"],
+      "is_active": true
+    },
+    {
+      "id": "cook",
+      "name_en": "Home Cook / Chef",
+      "name_hi": "रसोईया / कुक",
+      "name_mr": "स्वयंपाकी",
+      "icon_name": "cook",
+      "search_aliases": ["cook", "chef", "food", "tiffin", "रसोईया", "कुक", "जेवण"],
+      "is_active": true
+    },
+    {
+      "id": "gardener",
+      "name_en": "Gardener / Mali",
+      "name_hi": "माली",
+      "name_mr": "माळी",
+      "icon_name": "gardener",
+      "search_aliases": ["mali", "gardener", "plants", "माली", "माळी", "झाडे"],
+      "is_active": true
+    },
+    {
+      "id": "driver",
+      "name_en": "Driver",
+      "name_hi": "ड्राइवर",
+      "name_mr": "ड्रायव्हर",
+      "icon_name": "driver",
+      "search_aliases": ["driver", "car", "chauffeur", "ड्राइवर", "गाडी चालवणारा"],
+      "is_active": true
+    }
+  ],
+  "societies_directory": [
+    {
+      "id": "soc_1",
+      "name": "Gokuldham Society",
+      "locality": "Powai",
+      "city": "Mumbai",
+      "pincode": "400076",
+      "active_workers_count": 14
+    },
+    {
+      "id": "soc_2",
+      "name": "Hiranandani Gardens",
+      "locality": "Powai",
+      "city": "Mumbai",
+      "pincode": "400076",
+      "active_workers_count": 28
+    },
+    {
+      "id": "soc_3",
+      "name": "Raheja Vistas",
+      "locality": "Chandivali",
+      "city": "Mumbai",
+      "pincode": "400072",
+      "active_workers_count": 19
+    },
+    {
+      "id": "soc_4",
+      "name": "Lodha Bellissimo",
+      "locality": "Mahalaxmi",
+      "city": "Mumbai",
+      "pincode": "400011",
+      "active_workers_count": 22
+    },
+    {
+      "id": "soc_5",
+      "name": "Godrej Platinum",
+      "locality": "Vikhroli East",
+      "city": "Mumbai",
+      "pincode": "400079",
+      "active_workers_count": 16
+    }
+  ],
+  "provider_profiles": [
+    {
+      "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+      "business_name": "Sunita Tai Domestic Help",
+      "phone_number": "+91 98201 12345",
+      "bio": "Experienced home helper specializing in morning cleaning, utensil washing, and floor mopping. Trusted in Gokuldham and Hiranandani for 8+ years.",
+      "primary_category_id": "maid",
+      "experience_years": 8,
+      "service_areas": ["Powai", "Chandivali", "Kanjurmarg"],
+      "societies_served": ["Gokuldham Society", "Hiranandani Gardens"],
+      "languages_spoken": ["hi", "mr"],
+      "is_active": true,
+      "is_emergency_available": false,
+      "verification_status": "verified",
+      "avg_rating": 4.9,
+      "total_reviews": 42,
+      "pricing_model": "monthly",
+      "base_price": 2500.0,
+      "working_hours": "07:00 AM - 02:00 PM",
+      "max_daily_jobs": 6,
+      "leave_dates": [],
+      "profile_views": 312,
+      "calls_initiated": 48,
+      "booking_requests_count": 19,
+      "is_temporary_job_mode_active": true
+    },
+    {
+      "id": "e4a13f77-2f3b-4830-8dbb-13cb09f87c12",
+      "business_name": "Shree Krishna Fresh Dairy",
+      "phone_number": "+91 98192 67890",
+      "bio": "Pure cow and buffalo milk delivered directly to your doorstep by 6:30 AM every morning. Direct farm packaging.",
+      "primary_category_id": "milkman",
+      "experience_years": 12,
+      "service_areas": ["Powai", "Vikhroli", "Ghatkopar"],
+      "societies_served": ["Gokuldham Society", "Raheja Vistas", "Godrej Platinum"],
+      "languages_spoken": ["hi", "mr", "en"],
+      "is_active": true,
+      "is_emergency_available": false,
+      "verification_status": "verified",
+      "avg_rating": 4.8,
+      "total_reviews": 85,
+      "pricing_model": "per_liter",
+      "base_price": 68.0,
+      "working_hours": "05:30 AM - 08:30 AM",
+      "max_daily_jobs": 120,
+      "leave_dates": [],
+      "profile_views": 520,
+      "calls_initiated": 92,
+      "booking_requests_count": 44,
+      "is_temporary_job_mode_active": false
+    },
+    {
+      "id": "c7f93a11-8551-4e42-b0b3-8dfc0981aa45",
+      "business_name": "Ramesh Express Plumbing & Drain Care",
+      "phone_number": "+91 98920 44556",
+      "bio": "Certified master plumber with emergency pipe burst, leakage repair, bathroom fitting, and geyser installation tools available 24/7.",
+      "primary_category_id": "plumber",
+      "experience_years": 10,
+      "service_areas": ["Powai", "Andheri East", "Chandivali", "Ghatkopar"],
+      "societies_served": ["Hiranandani Gardens", "Raheja Vistas"],
+      "languages_spoken": ["en", "hi"],
+      "is_active": true,
+      "is_emergency_available": true,
+      "verification_status": "verified",
+      "avg_rating": 4.7,
+      "total_reviews": 56,
+      "pricing_model": "per_visit",
+      "base_price": 350.0,
+      "working_hours": "24/7 Available",
+      "max_daily_jobs": 8,
+      "leave_dates": [],
+      "profile_views": 410,
+      "calls_initiated": 67,
+      "booking_requests_count": 31,
+      "is_temporary_job_mode_active": true
+    },
+    {
+      "id": "a1122334-5566-7788-9900-aabbccddeeff",
+      "business_name": "QuickVolt Electric Works",
+      "phone_number": "+91 97654 32109",
+      "bio": "Local electrician for home rewiring, short-circuit troubleshooting, fan/light installations, and MCB replacement.",
+      "primary_category_id": "electrician",
+      "experience_years": 5,
+      "service_areas": ["Powai", "Vikhroli East"],
+      "societies_served": ["Godrej Platinum", "Gokuldham Society"],
+      "languages_spoken": ["hi", "en", "mr"],
+      "is_active": true,
+      "is_emergency_available": true,
+      "verification_status": "unverified",
+      "avg_rating": 4.5,
+      "total_reviews": 18,
+      "pricing_model": "per_visit",
+      "base_price": 300.0,
+      "working_hours": "08:00 AM - 09:00 PM",
+      "max_daily_jobs": 6,
+      "leave_dates": [],
+      "profile_views": 189,
+      "calls_initiated": 24,
+      "booking_requests_count": 12,
+      "is_temporary_job_mode_active": true
+    },
+    {
+      "id": "bb334455-6677-8899-0011-223344556677",
+      "business_name": "Annapurna Home Cook & Tiffin",
+      "phone_number": "+91 98331 99887",
+      "bio": "Healthy, hygienic vegetarian and Jain meals cooked at your kitchen. Specializing in North Indian, Maharashtrian, and Gujarati cuisines.",
+      "primary_category_id": "cook",
+      "experience_years": 7,
+      "service_areas": ["Powai", "Chandivali"],
+      "societies_served": ["Hiranandani Gardens", "Lodha Bellissimo"],
+      "languages_spoken": ["hi", "mr", "gu"],
+      "is_active": true,
+      "is_emergency_available": false,
+      "verification_status": "verified",
+      "avg_rating": 4.9,
+      "total_reviews": 31,
+      "pricing_model": "monthly",
+      "base_price": 4000.0,
+      "working_hours": "06:30 AM - 08:30 PM",
+      "max_daily_jobs": 4,
+      "leave_dates": [],
+      "profile_views": 390,
+      "calls_initiated": 51,
+      "booking_requests_count": 16,
+      "is_temporary_job_mode_active": false
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk_demo_001",
+      "consumer_id": "usr_consumer_test_1",
+      "consumer_name": "Priya Sharma",
+      "consumer_phone": "+91 98200 11223",
+      "provider_id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+      "provider_name": "Sunita Tai Domestic Help",
+      "provider_phone": "+91 98201 12345",
+      "category_id": "maid",
+      "service_title": "Daily Morning Cleaning & Kitchen Help",
+      "booking_type": "recurring_daily",
+      "status": "accepted",
+      "recurring_status": "active",
+      "scheduled_date": "2026-10-15T00:00:00.000Z",
+      "time_slot": "08:00 AM - 09:30 AM",
+      "service_address": "Flat 702, Building A, Gokuldham Society, Powai, Mumbai",
+      "instructions": "Please ring bell directly. Utensil cleaning and kitchen counter wiping.",
+      "estimated_price": 2500.0,
+      "timeline": [
+        {
+          "timestamp": "2026-10-10T09:30:00.000Z",
+          "actor_role": "consumer",
+          "status": "requested",
+          "note": "Initial request submitted"
+        },
+        {
+          "timestamp": "2026-10-10T10:15:00.000Z",
+          "actor_role": "provider",
+          "status": "accepted",
+          "note": "Confirmed for daily 8:00 AM slot"
+        }
+      ],
+      "cancellation_reason": null,
+      "is_no_show_reported": false,
+      "created_at": "2026-10-10T09:30:00.000Z"
+    },
+    {
+      "id": "bk_demo_002",
+      "consumer_id": "usr_consumer_test_1",
+      "consumer_name": "Priya Sharma",
+      "consumer_phone": "+91 98200 11223",
+      "provider_id": "e4a13f77-2f3b-4830-8dbb-13cb09f87c12",
+      "provider_name": "Shree Krishna Fresh Dairy",
+      "provider_phone": "+91 98192 67890",
+      "category_id": "milkman",
+      "service_title": "Daily 1.5L Cow Milk Delivery",
+      "booking_type": "recurring_daily",
+      "status": "accepted",
+      "recurring_status": "skipped_today",
+      "scheduled_date": "2026-10-15T00:00:00.000Z",
+      "time_slot": "06:30 AM",
+      "service_address": "Flat 702, Building A, Gokuldham Society, Powai, Mumbai",
+      "instructions": "Leave milk bag in the door basket.",
+      "estimated_price": 102.0,
+      "timeline": [
+        {
+          "timestamp": "2026-10-01T08:00:00.000Z",
+          "actor_role": "consumer",
+          "status": "requested",
+          "note": "Subscription initiated"
+        },
+        {
+          "timestamp": "2026-10-01T08:30:00.000Z",
+          "actor_role": "provider",
+          "status": "accepted",
+          "note": "Delivery route added"
+        },
+        {
+          "timestamp": "2026-10-15T05:00:00.000Z",
+          "actor_role": "consumer",
+          "status": "skipped_today",
+          "note": "Consumer skipped today's delivery"
+        }
+      ],
+      "cancellation_reason": null,
+      "is_no_show_reported": false,
+      "created_at": "2026-10-01T08:00:00.000Z"
+    },
+    {
+      "id": "bk_demo_003",
+      "consumer_id": "usr_consumer_test_2",
+      "consumer_name": "Rohan Deshmukh",
+      "consumer_phone": "+91 98210 99881",
+      "provider_id": "c7f93a11-8551-4e42-b0b3-8dfc0981aa45",
+      "provider_name": "Ramesh Express Plumbing & Drain Care",
+      "provider_phone": "+91 98920 44556",
+      "category_id": "plumber",
+      "service_title": "Bathroom Sink Drain Unclogging",
+      "booking_type": "one_time",
+      "status": "completed",
+      "recurring_status": "active",
+      "scheduled_date": "2026-10-14T00:00:00.000Z",
+      "time_slot": "02:00 PM - 03:00 PM",
+      "service_address": "Tower 4, Flat 1201, Hiranandani Gardens, Powai",
+      "instructions": "Main drain pipe leaking under sink.",
+      "estimated_price": 450.0,
+      "timeline": [
+        {
+          "timestamp": "2026-10-14T11:00:00.000Z",
+          "actor_role": "consumer",
+          "status": "requested",
+          "note": "Emergency plumbing needed"
+        },
+        {
+          "timestamp": "2026-10-14T11:20:00.000Z",
+          "actor_role": "provider",
+          "status": "accepted",
+          "note": "Provider en route"
+        },
+        {
+          "timestamp": "2026-10-14T15:10:00.000Z",
+          "actor_role": "provider",
+          "status": "completed",
+          "note": "Work completed and cash settled"
+        }
+      ],
+      "cancellation_reason": null,
+      "is_no_show_reported": false,
+      "created_at": "2026-10-14T11:00:00.000Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev_001",
+      "booking_id": "bk_demo_003",
+      "consumer_id": "usr_consumer_test_2",
+      "consumer_name": "Rohan Deshmukh",
+      "provider_id": "c7f93a11-8551-4e42-b0b3-8dfc0981aa45",
+      "rating": 5.0,
+      "review_text": "Ramesh arrived within 30 minutes of booking! Fixed our clogged bathroom sink quickly and left the area spotless. Highly recommended.",
+      "is_verified_booking": true,
+      "created_at": "2026-10-14T16:00:00.000Z"
+    }
+  ],
+  "custom_service_requests": [
+    {
+      "id": "req_001",
+      "consumer_id": "usr_consumer_test_1",
+      "title": "Need Balcony Grill Rust Treatment & Painting",
+      "description": "Looking for a local painter/welder to treat minor rust spots and paint two 8-foot balcony safety grills.",
+      "locality": "Powai",
+      "pincode": "400076",
+      "budget_estimate": 1200.0,
+      "needed_date": "2026-10-18",
+      "needed_time": "Morning (09:00 AM - 12:00 PM)",
+      "status": "open",
+      "responses_count": 2
+    }
+  ]
+}
